@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.kaituo.bigdata.log4j.Log4jDemo
+
