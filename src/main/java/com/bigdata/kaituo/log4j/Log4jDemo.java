@@ -1,9 +1,7 @@
-package com.kaituo.bigdata.log4j;
+package com.bigdata.kaituo.log4j;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
-import java.util.List;
 
 /**
  * Created by chang on 2017/2/22.

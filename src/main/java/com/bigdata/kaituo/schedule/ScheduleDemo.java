@@ -1,6 +1,6 @@
-package com.kaituo.bigdata.schedule;
+package com.bigdata.kaituo.schedule;
 
-import com.kaituo.bigdata.thread.Thread1;
+import com.bigdata.kaituo.thread.Thread1;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;

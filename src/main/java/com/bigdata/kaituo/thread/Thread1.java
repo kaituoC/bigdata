@@ -1,4 +1,4 @@
-package com.kaituo.bigdata.thread;
+package com.bigdata.kaituo.thread;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

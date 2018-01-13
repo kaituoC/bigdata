@@ -1,4 +1,4 @@
-package com.kaituo.bigdata.https;
+package com.bigdata.kaituo.https;
 
 import org.apache.http.conn.ClientConnectionManager;
 import org.apache.http.conn.scheme.Scheme;

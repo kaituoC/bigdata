@@ -1,4 +1,4 @@
-package com.kaituo.bigdata.thread;
+package com.bigdata.kaituo.thread;
 
 /**
  * Created by chang on 2017/2/26.

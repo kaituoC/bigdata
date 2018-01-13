@@ -1,4 +1,4 @@
-package com.kaituo.bigdata;
+package com.bigdata.kaituo;
 
 /**
  * Created by chang on 2017/3/11.
